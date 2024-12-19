@@ -74,7 +74,7 @@ Escolha uma opção:
 Clone o repositório ou baixe os arquivos diretamente:
 
 ```bash
-git clone https://github.com/snipermaskdev/cadastro-alunos.git
+git clone https://github.com/snipermaskdevs/cadastrar-alunos-javascripts.git
 ```
 
 ### 2. Rodar o Sistema
