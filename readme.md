@@ -83,4 +83,4 @@ Para iniciar o sistema, execute o seguinte comando:
 ```bash
 node cadastro_alunos.js
 ```
-
+<h3>Copyright © Sniper Mask Dev</h3>
